@@ -39,4 +39,4 @@ DairyPro utilizes a modern agtech software architecture to ensure reliability in
 
 ## 📩 Support & Contact
 
-For technical integrations, feature requests, or agricultural partnerships, visit [https://dairypro.app](https://dairypro.app).
+For technical integrations, feature requests, or agricultural partnerships, contact us contact@dairypro.app 
